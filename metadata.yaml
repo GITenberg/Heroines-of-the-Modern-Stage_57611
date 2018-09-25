@@ -1,0 +1,26 @@
+_repo: Heroines-of-the-Modern-Stage_57611
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Izard
+    gutenberg_agent_id: '49503'
+    url: http://www.gutenberg.org/2009/agents/49503
+  - agent_name: Forrest, John Forrest, Baron
+    birthdate: 1847
+    deathdate: 1918
+    gutenberg_agent_id: '3221'
+    url: http://www.gutenberg.org/2009/agents/3221
+    wikipedia: http://en.wikipedia.org/wiki/John_Forrest,_1st_Baron_Forrest_of_Bunbury
+description: ''
+gutenberg_issued: '2018-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57611'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Heroines of the Modern Stage
+url: http://www.gutenberg.org/ebooks/57611
